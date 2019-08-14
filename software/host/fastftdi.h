@@ -27,7 +27,7 @@
 #ifndef __FASTFTDI_H
 #define __FASTFTDI_H
 
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 #include <stdint.h>
 #ifndef _MSC_VER
 #include <stdbool.h>
